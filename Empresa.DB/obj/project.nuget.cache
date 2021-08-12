@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wSdLp71ypuBwUm9Afe4M0jHGdFyxZAVRtOpycDzL4IrmGB5Hin7CkCAuNaRqgF+fSgWqUku8lUjQSPCm9gpRhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cts1b447691\\Desktop\\clientsapp_csharp\\Empresa.DB\\Empresa.DB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cts1b447691\\.nuget\\packages\\system.data.sqlclient\\4.8.2\\system.data.sqlclient.4.8.2.nupkg.sha512"
+  ],
+  "logs": []
+}

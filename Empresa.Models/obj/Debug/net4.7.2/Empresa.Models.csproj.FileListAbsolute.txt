@@ -1,0 +1,17 @@
+C:\Users\50s\Desktop\V\GitHub\C#\Empresa.Models\bin\Debug\net4.7.2\Empresa.Models.dll
+C:\Users\50s\Desktop\V\GitHub\C#\Empresa.Models\bin\Debug\net4.7.2\Empresa.Models.pdb
+C:\Users\50s\Desktop\V\GitHub\C#\Empresa.Models\obj\Debug\net4.7.2\Empresa.Models.csproj.AssemblyReference.cache
+C:\Users\50s\Desktop\V\GitHub\C#\Empresa.Models\obj\Debug\net4.7.2\Empresa.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50s\Desktop\V\GitHub\C#\Empresa.Models\obj\Debug\net4.7.2\Empresa.Models.AssemblyInfoInputs.cache
+C:\Users\50s\Desktop\V\GitHub\C#\Empresa.Models\obj\Debug\net4.7.2\Empresa.Models.AssemblyInfo.cs
+C:\Users\50s\Desktop\V\GitHub\C#\Empresa.Models\obj\Debug\net4.7.2\Empresa.Models.csproj.CoreCompileInputs.cache
+C:\Users\50s\Desktop\V\GitHub\C#\Empresa.Models\obj\Debug\net4.7.2\Empresa.Models.dll
+C:\Users\50s\Desktop\V\GitHub\C#\Empresa.Models\obj\Debug\net4.7.2\Empresa.Models.pdb
+C:\Users\cts1b447691\Desktop\clientsapp_csharp\Empresa.Models\bin\Debug\net4.7.2\Empresa.Models.dll
+C:\Users\cts1b447691\Desktop\clientsapp_csharp\Empresa.Models\bin\Debug\net4.7.2\Empresa.Models.pdb
+C:\Users\cts1b447691\Desktop\clientsapp_csharp\Empresa.Models\obj\Debug\net4.7.2\Empresa.Models.csprojAssemblyReference.cache
+C:\Users\cts1b447691\Desktop\clientsapp_csharp\Empresa.Models\obj\Debug\net4.7.2\Empresa.Models.AssemblyInfoInputs.cache
+C:\Users\cts1b447691\Desktop\clientsapp_csharp\Empresa.Models\obj\Debug\net4.7.2\Empresa.Models.AssemblyInfo.cs
+C:\Users\cts1b447691\Desktop\clientsapp_csharp\Empresa.Models\obj\Debug\net4.7.2\Empresa.Models.csproj.CoreCompileInputs.cache
+C:\Users\cts1b447691\Desktop\clientsapp_csharp\Empresa.Models\obj\Debug\net4.7.2\Empresa.Models.dll
+C:\Users\cts1b447691\Desktop\clientsapp_csharp\Empresa.Models\obj\Debug\net4.7.2\Empresa.Models.pdb
